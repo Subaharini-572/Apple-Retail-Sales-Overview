@@ -13,6 +13,19 @@ This project analyzes Apple retail sales data using Power BI to identify sales t
 - Power BI
 - Excel
 
+## 📊 Dashboard Preview
+### 1. Sales Overview
+![Sales](Apple Retail Sales Overview.png)
+
+### 2. Product Performance
+![Product](Product Performance Analysis.png)
+
+### 3. Sales & Warranty
+![Warranty](Sales and Warranty Analysis.png)
+
+### 4. Store Analysis
+![Store](Store-Wise Performance And Analysis.png)
+
 ## 📊 Key Insights
 - Sales trends over time
 - Top-selling Apple products
